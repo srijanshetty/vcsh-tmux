@@ -3,5 +3,5 @@ These repositories are a part of my [dotfiles](https://github.com/srijanshetty/d
 LICENSE
 -------
 
-This projected is licensed under the terms of the [MIT LICENSE](.LICENSE.d/LICENSE)
+This project is licensed under the terms of the [MIT LICENSE](http://opensource.org/licenses/MIT)
 

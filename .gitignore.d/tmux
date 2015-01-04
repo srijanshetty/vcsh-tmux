@@ -2,7 +2,9 @@
 !.gitignore.d
 !.gitignore.d/tmux
 !.LICENSES.d
-!.LICENSES.d/LICENSE
+!.LICENSES.d/tmux
 !.tmux.conf
 !.screenrc
-!README.md
+!.README.d/
+!.README.d/tmux.md
+
